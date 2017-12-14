@@ -1,0 +1,24 @@
+clc;
+close all;
+clear;
+
+car_detection('cs484_hw2_data/01.jpg');
+car_detection('cs484_hw2_data/02.jpg');
+car_detection('cs484_hw2_data/03.jpg');
+car_detection('cs484_hw2_data/04.jpg');
+car_detection('cs484_hw2_data/05.jpg');
+car_detection('cs484_hw2_data/06.jpg');
+car_detection('cs484_hw2_data/07.jpg');
+car_detection('cs484_hw2_data/08.jpg');
+car_detection('cs484_hw2_data/09.jpg');
+car_detection('cs484_hw2_data/10.jpg');
+car_detection('cs484_hw2_data/11.jpg');
+car_detection('cs484_hw2_data/12.jpg');
+car_detection('cs484_hw2_data/13.jpg');
+car_detection('cs484_hw2_data/14.jpg');
+car_detection('cs484_hw2_data/15.jpg');
+car_detection('cs484_hw2_data/16.jpg');
+car_detection('cs484_hw2_data/17.jpg');
+car_detection('cs484_hw2_data/18.jpg');
+car_detection('cs484_hw2_data/19.jpg');
+car_detection('cs484_hw2_data/20.jpg');
